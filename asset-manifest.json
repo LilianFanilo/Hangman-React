@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hangman-react/static/css/main.f1b53851.css",
-    "main.js": "/hangman-react/static/js/main.87f638e3.js",
+    "main.js": "/hangman-react/static/js/main.35475e21.js",
     "static/js/787.7d2d15ae.chunk.js": "/hangman-react/static/js/787.7d2d15ae.chunk.js",
     "index.html": "/hangman-react/index.html",
     "main.f1b53851.css.map": "/hangman-react/static/css/main.f1b53851.css.map",
-    "main.87f638e3.js.map": "/hangman-react/static/js/main.87f638e3.js.map",
+    "main.35475e21.js.map": "/hangman-react/static/js/main.35475e21.js.map",
     "787.7d2d15ae.chunk.js.map": "/hangman-react/static/js/787.7d2d15ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1b53851.css",
-    "static/js/main.87f638e3.js"
+    "static/js/main.35475e21.js"
   ]
 }
