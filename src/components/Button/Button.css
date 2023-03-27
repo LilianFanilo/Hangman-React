@@ -1,0 +1,15 @@
+.button--classic {
+    background-color: white;
+    color: rgb(131, 197, 31);
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 1em;
+}
+
+.button--classic:hover{
+    background-color: rgb(234, 234, 234);
+}
+
+.button--no--padding {
+    padding: 0;
+}
